@@ -30,10 +30,6 @@ The FIFO was verified using ModelSim for:
 
 All eight stored data values were successfully read back and verified during simulation.
 
-## Tools Used
-
-- Verilog HDL
-- ModelSim
 
 ## Project Files
 
